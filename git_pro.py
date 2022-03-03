@@ -1,3 +1,3 @@
 def hello():
-    print("Hello World!")
+    print("Mergen jälkeen")
     return
